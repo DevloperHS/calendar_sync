@@ -27,10 +27,6 @@ Clone the repo using
 ```bash
 https://github.com/DevloperHS/calendar_sync.git
 ```
-Navigate to root folder
-```
-cd calendar_sync
-```
 
 ### 1. Environment Setup
 First, create and activate a virtual environment to manage dependencies.
