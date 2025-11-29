@@ -1,0 +1,7 @@
+.credentials/
+.venv/
+.vscode/
+.json
+calendar_sync/.env
+__pycache__/
+credentials.json
