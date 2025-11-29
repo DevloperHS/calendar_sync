@@ -22,6 +22,16 @@ This guide details the setup and usage of the Google Calendar integration for th
 
 ## Installation
 
+### 0. Clone the repo
+Clone the repo using
+```bash
+https://github.com/DevloperHS/calendar_sync.git
+```
+Navigate to root folder
+```
+cd calendar_sync
+```
+
 ### 1. Environment Setup
 First, create and activate a virtual environment to manage dependencies.
 
